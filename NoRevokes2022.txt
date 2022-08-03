@@ -1,5 +1,5 @@
 1.Go to nextdns.io
-2.Create and account(recommended)
+2.Create an account(recommended)
 3.Go to Denylist and add the following urls:
 ocsp.int-x3.letsencrypt.org
 ocsp.apple.com
