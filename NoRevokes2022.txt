@@ -11,7 +11,7 @@ www.gdmf.apple.com
 iadsdk.apple.com
 oscp2.apple.com
 
-4.After you added those scroll on the first page of NextDNS and press the configuration profile link,edit some settings(Device name,model),press on Download and accept the download.Download your apps,go to settings VPN and Device management install the profile.If you want to install another app switch the DNS to Automatic,download the app and select the DNS you installed with the profile
+4.After you added those scroll on the first page of NextDNS and press the configuration profile link,edit some settings(Device name,model),press on Download and accept the download.Download your apps,go to settings VPN and Device management install the profile.If you want to install another app switch the DNS to Automatic,download the app and select the DNS you installed with the profile(be careful, the certificate may be revoked in the meantime and you can loose your apps, check on Twitter for a 3rd party store, they are usually Tweeting when it's revoked) 
 5.If you want to verify if you installed the DNS correctly go to usescarlet.com,download Scarlet,trust Scarlet,open Scarlet,wait a bit,in the upper corner there’s a circle,if it’s BLUE 🔵 you installed the DNS correctly.
 
 That’s it! I hope you made it!
